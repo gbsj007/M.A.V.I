@@ -1,6 +1,6 @@
-# repo_app
+# M.A.V.I
 
-A new Flutter project.
+A simple step towards betterment of visually imapaired people.
 
 ## Getting Started
 
